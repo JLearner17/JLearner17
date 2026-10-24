@@ -2,7 +2,7 @@
   ╔══════════════════════════════════════════════════════════════╗
   ║  PLANTILLA DE README DE PERFIL DE GITHUB — SENA ADSO         ║
   ║  Copia este archivo (y la carpeta assets/) a tu repo         ║
-  ║  TU-USUARIO/TU-USUARIO. Lee GUIA.md para el paso a paso.    ║
+  ║  JLearner17/JLearner17. Lee GUIA.md para el paso a paso.    ║
   ║  Busca "✏️ EDITA" para encontrar todo lo que debes cambiar.  ║
   ║  Cuando termines, borra los comentarios que ya no necesites. ║
   ╚══════════════════════════════════════════════════════════════╝
@@ -22,13 +22,13 @@
   </picture>
 </p>
 
-<!-- ✏️ EDITA: cambia TU-USUARIO en cada badge. Los de Discord/NPM/LinkedIn son opcionales: borra los que no uses. -->
+<!-- ✏️ EDITA: cambia JLearner17 en cada badge. Los de Discord/NPM/LinkedIn son opcionales: borra los que no uses. -->
 <p align="center">
-  <a href="https://github.com/TU-USUARIO?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/TU-USUARIO?style=for-the-badge&logo=github&label=Seguidores"></a>
-  <a href="https://github.com/TU-USUARIO?tab=repositories"><img alt="Estrellas" src="https://img.shields.io/github/stars/TU-USUARIO?style=for-the-badge&logo=github&label=Estrellas"></a>
-  <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=TU-USUARIO&style=for-the-badge&label=Visitas">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.npmjs.com/~TU-USUARIO"><img alt="NPM (opcional)" src="https://img.shields.io/badge/npm-opcional-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+  <a href="https://github.com/JLearner17?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/JLearner17?style=for-the-badge&logo=github&label=Seguidores"></a>
+  <a href="https://github.com/JLearner17?tab=repositories"><img alt="Estrellas" src="https://img.shields.io/github/stars/JLearner17?style=for-the-badge&logo=github&label=Estrellas"></a>
+  <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=JLearner17&style=for-the-badge&label=Visitas">
+  <a href="https://www.linkedin.com/in/JLearner17-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.npmjs.com/~JLearner17"><img alt="NPM (opcional)" src="https://img.shields.io/badge/npm-opcional-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
   <a href="https://discord.com/users/TU-ID-DISCORD"><img alt="Discord (opcional)" src="https://img.shields.io/badge/Discord-opcional-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
@@ -77,17 +77,17 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 <!-- ✏️ EDITA: cambia los proyectos de ejemplo por los tuyos. Formato: **Nombre** — descripción + enlaces. -->
 
 ### 🌐 Aplicaciones web
-- **Proyecto Uno** — Tienda en línea de ejemplo con carrito de compras. [Repo](https://github.com/TU-USUARIO/proyecto-uno) · [Demo](https://TU-USUARIO.github.io/proyecto-uno)
-- **Proyecto Dos** — Gestor de tareas con login y base de datos. [Repo](https://github.com/TU-USUARIO/proyecto-dos)
+- **Proyecto Uno** — Tienda en línea de ejemplo con carrito de compras. [Repo](https://github.com/JLearner17/proyecto-uno) · [Demo](https://JLearner17.github.io/proyecto-uno)
+- **Proyecto Dos** — Gestor de tareas con login y base de datos. [Repo](https://github.com/JLearner17/proyecto-dos)
 
 ### 📱 Móvil
-- **Proyecto Tres** — App de ejemplo para registrar gastos del mes. [Repo](https://github.com/TU-USUARIO/proyecto-tres)
+- **Proyecto Tres** — App de ejemplo para registrar gastos del mes. [Repo](https://github.com/JLearner17/proyecto-tres)
 
 ### 🎨 Frontend y diseño
-- **Mi Portafolio** — Sitio personal responsive. [Repo](https://github.com/TU-USUARIO/TU-USUARIO.github.io) · [Demo](https://TU-PORTAFOLIO.com)
+- **Mi Portafolio** — Sitio personal responsive. [Repo](https://github.com/JLearner17/JLearner17.github.io) · [Demo](https://TU-PORTAFOLIO.com)
 
 <p align="center">
-  <a href="https://github.com/TU-USUARIO/proyecto-uno">
+  <a href="https://github.com/JLearner17/proyecto-uno">
     <img src="assets/captura-ejemplo.svg" alt="Captura de pantalla del Proyecto Uno" width="480">
   </a>
   <br>
@@ -99,13 +99,13 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 ## 📊 Actividad y estadísticas
 
-<!-- ✏️ EDITA: cambia TU-USUARIO. Son servicios EXTERNOS gratuitos: pueden tardar, fallar o cambiar su URL. Si se rompen, bórralos. -->
+<!-- ✏️ EDITA: cambia JLearner17. Son servicios EXTERNOS gratuitos: pueden tardar, fallar o cambiar su URL. Si se rompen, bórralos. -->
 <p align="center">
-  <img alt="Estadísticas de GitHub de TU-USUARIO" height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true">
-  <img alt="Lenguajes más usados de TU-USUARIO" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true">
+  <img alt="Estadísticas de GitHub de JLearner17" height="170" src="https://github-readme-stats.vercel.app/api?username=JLearner17&show_icons=true&theme=tokyonight&hide_border=true">
+  <img alt="Lenguajes más usados de JLearner17" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLearner17&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 <p align="center">
-  <img alt="Racha de contribuciones de TU-USUARIO" src="https://streak-stats.demolab.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true">
+  <img alt="Racha de contribuciones de JLearner17" src="https://streak-stats.demolab.com/?user=JLearner17&theme=tokyonight&hide_border=true">
 </p>
 
 > ⚠️ Estas tarjetas dependen de servicios de terceros (github-readme-stats y streak-stats). Pueden fallar, cambiar de dirección o mostrar datos con retraso.
@@ -115,9 +115,9 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 <!-- ✏️ EDITA: tabla con tus mejores repos (también puedes fijarlos en tu perfil, ver GUIA.md). -->
 | Repositorio | Descripción | Tecnologías |
 |-------------|-------------|-------------|
-| [proyecto-uno](https://github.com/TU-USUARIO/proyecto-uno) | Tienda en línea de ejemplo | HTML, CSS, JS |
-| [proyecto-dos](https://github.com/TU-USUARIO/proyecto-dos) | Gestor de tareas con login | Node.js, PostgreSQL |
-| [proyecto-tres](https://github.com/TU-USUARIO/proyecto-tres) | App de gastos | React |
+| [proyecto-uno](https://github.com/JLearner17/proyecto-uno) | Tienda en línea de ejemplo | HTML, CSS, JS |
+| [proyecto-dos](https://github.com/JLearner17/proyecto-dos) | Gestor de tareas con login | Node.js, PostgreSQL |
+| [proyecto-tres](https://github.com/JLearner17/proyecto-tres) | App de gastos | React |
 
 ## 📫 Contáctame
 
@@ -125,7 +125,7 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 | Medio | Enlace |
 |-------|--------|
 | 🌐 Portafolio | [TU-PORTAFOLIO.com](https://TU-PORTAFOLIO.com) |
-| 💼 LinkedIn | [linkedin.com/in/TU-USUARIO-LINKEDIN](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/) |
+| 💼 LinkedIn | [linkedin.com/in/JLearner17-LINKEDIN](https://www.linkedin.com/in/JLearner17-LINKEDIN/) |
 | ✉️ Correo | [tu@correo.com](mailto:tu@correo.com) |
 | 💬 WhatsApp | [Escríbeme](https://wa.me/57TU-NUMERO) |
 | 📄 Hoja de vida | _Sube tu PDF a `assets/` y enlázalo aquí (ver comentario)_ |
